@@ -1,0 +1,12 @@
+id: articles
+
+fields:
+  pageTitle: Bootcamp Sample Article
+placeholders:
+  jss-main:
+    - componentName: Article
+      fields:
+        title: Article Page
+        description: |
+          <p>Article Content</p>
+        date: '2018-03-23T15:00:00Z'
